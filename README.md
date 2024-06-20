@@ -1,6 +1,6 @@
 ### Hey folks! 👋
 
-- 🔭 I’m currently working on ...travel API, a full-stack app that records & tracks places you've been, and makes future recommendations based on previous locations! Eventually this will be expanded to a social networking circle!
+- 🔭 I’m currently working on ...travel API, a full-stack app that records & tracks places you've been, and makes future recommendations based on previous locations! Eventually (and hopefully) this will be expanded to a social networking circle!
 - 🌱 I’m currently learning ...React via Vite, node.js, Jest, devops cycle
 - 👯 I’m looking to collaborate on ...anything open sourced, potential guests on my podcast
 - 🤔 I’m looking for help with ...anythng & everything prograrmming & tech related. If you've got an idea, drop me a msg! 
